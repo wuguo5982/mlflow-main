@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sealion/Desktop/Total_github/mlflow-main/mlruns/0/d230adbd7e594b29af256392743deb01/artifacts
+end_time: 1692215142966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d230adbd7e594b29af256392743deb01
+run_name: worried-bat-212
+run_uuid: d230adbd7e594b29af256392743deb01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692215139477
+status: 3
+tags: []
+user_id: Sealion
